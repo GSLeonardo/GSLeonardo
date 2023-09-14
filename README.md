@@ -9,6 +9,8 @@
 
 #### Tech skills
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsleonardo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
@@ -17,3 +19,4 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/kotlin" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
 </div>
+
